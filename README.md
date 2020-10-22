@@ -1,6 +1,6 @@
 # BiggBoss
 # Predicting the winner based on various parameters.
-Contrubitons will be appricatited by implementating new models.
+Contributions will be appreciated by implementing new models.
 # Data set:
 https://www.kaggle.com/thirumani/bigg-boss-india-hindi-telugu-tamil-kannada
 # Previous work
